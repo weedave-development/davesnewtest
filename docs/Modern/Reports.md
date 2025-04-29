@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reports
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Reports

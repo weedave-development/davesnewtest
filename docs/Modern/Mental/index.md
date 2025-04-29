@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mental Health
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 has_children: true
 ---
 

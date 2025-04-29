@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lacerations (Cuts, Stabs)
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 # Lacerations
 

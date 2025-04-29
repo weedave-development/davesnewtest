@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Poisoning and Narcotics
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Poisoning and Narcotics

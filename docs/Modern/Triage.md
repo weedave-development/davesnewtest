@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Triage
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Triage

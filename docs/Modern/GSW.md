@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gunshot Wounds (GSW)
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Gunshot Wounds (GSW's)

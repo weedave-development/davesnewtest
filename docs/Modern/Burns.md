@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Burns
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Burns

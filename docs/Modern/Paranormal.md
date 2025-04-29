@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Paranormal Medicine
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Paranormal Medicine

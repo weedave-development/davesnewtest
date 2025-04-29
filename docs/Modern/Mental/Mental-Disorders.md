@@ -2,7 +2,7 @@
 layout: default
 title: Mental Health Disorders
 parent: Mental Health
-grand_parent: Modern Medicine
+grand_parent: List of Injuries/Medical INFO
 ---
 # Roleplay Mental Health Issues
 {: .no_toc }

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cardiac (Heart)
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Cardiac (Heart)

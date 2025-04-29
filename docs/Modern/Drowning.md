@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drowning
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Drowning

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Medications
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Medication Classes and Examples

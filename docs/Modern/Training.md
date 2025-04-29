@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Training

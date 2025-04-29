@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Orthopedic (Bones/Fractures)
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 # Fractures 
 

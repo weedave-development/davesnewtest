@@ -2,7 +2,7 @@
 layout: default
 title: Mental Health Therapy Techniques
 parent: Mental Health
-grand_parent: Modern Medicine
+grand_parent: List of Injuries/Medical INFO
 ---
 # Mental Health Therapy Techniques
 {: .no_toc }

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gastrointestinal (Abdomen / Intestines)
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Gastrointestinal (Abdomen / Intestines)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Respiratory
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Respiratory

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Physical Exams
-parent: Modern Medicine
+parent: List of Injuries/Medical INFO
 ---
 
 # Physical Exams and General Exams

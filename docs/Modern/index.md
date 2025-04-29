@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modern Medicine
+title: List of Injuries/Medical INFO
 nav_order: 2
 has_children: true
 ---
