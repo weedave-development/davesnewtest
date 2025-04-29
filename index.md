@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # The Medical Roleplayer's Guidebook
-This guide here is to help with medical rp on fivem!
+This is a simple guide on how to roleplay out multiple complications/injuries. It is not a drag and drop into a /me command on fivem, Take the advice and place them into a /me through yourself. Instructions/Tasks will be provided also.
 ## Modern Medicine
 
 <table>
